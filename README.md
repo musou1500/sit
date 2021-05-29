@@ -1,3 +1,3 @@
 # sit
 
-toy git implementation by Go
+toy git implementation written in Go
